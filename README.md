@@ -1,5 +1,5 @@
 # JavaReact
-İngilizce:
+English:
 
 This project contains various exercises and projects completed as part of the Java-React Bootcamp. The project covers fundamental Java concepts such as Object-Oriented Programming (OOP), inheritance, polymorphism, and the use of interfaces and abstract classes. Additionally, React's component structure and hooks are utilized in the projects. These projects were developed in the Eclipse environment and managed using Git. You can access the related YouTube playlist.
 
